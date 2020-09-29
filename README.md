@@ -1,4 +1,5 @@
-## Hello there 👋
+## <img src="https://user-images.githubusercontent.com/42115530/92640221-9728ca00-f2fa-11ea-8994-c72b26e937de.gif" align="center"/>
+
 ![ezgif com-optimize](https://user-images.githubusercontent.com/57000001/91126107-db905500-e6c0-11ea-918c-cabfe4e05136.gif)
 # About Me
 - 🔭 I’m currently working on ... Machine Learning Projects
