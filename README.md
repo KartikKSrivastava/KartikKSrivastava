@@ -2,8 +2,8 @@
 
 ![ezgif com-optimize](https://user-images.githubusercontent.com/57000001/91126107-db905500-e6c0-11ea-918c-cabfe4e05136.gif)
 # About Me
-- 🔭 Roles I have worked as ... Currently DevOps Engineer | Also worked as SRE ( Site Reliability Engineer ) | Software Engineer ( Platform ) | Infrastructure Engineer | Platform Engineer |
-- 🌱 Things I Love ...   Cloud Technologies | Kubernetes(K8s) | Web3 | Crypto | CNCF Projects | Artificial Intelligence | In Cloud -> AWS GCP Azure | Quantum Computing
+- 🔭 Roles I have worked as ... Currently DevOps Engineer <br /> Also worked as SRE ( Site Reliability Engineer ) | Software Engineer ( Platform ) | Infrastructure Engineer | Platform Engineer | <br />
+- 🌱 Things I Love ...  <br /> Cloud Technologies | Kubernetes(K8s) | Web3 | Crypto | CNCF Projects | Artificial Intelligence | In Cloud -> AWS GCP Azure | Quantum Computing
 - 👯 I’m looking to collaborate on ... Open Source Projects | Tech Talks
 - 💬 Ask me about ... Anything related to Computer Science | Physics | Mathematics 
 - 📫 How to reach me: ... LinkedIn :https://www.linkedin.com/in/kartikksrivastava/
